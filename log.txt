@@ -1,0 +1,5 @@
+Downloading Sms-Bomber...
+git clone https://github.com/in4osecurity/ni_bomber
+cd ni_bomber
+pip install -r requirements.txt
+Done
